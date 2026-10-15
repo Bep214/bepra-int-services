@@ -2,7 +2,7 @@
 
 A free, curated list of the most useful Claude skills for running a small or medium business. No code. No jargon. Just the ones worth your time, what each does, and where to get it.
 
-Put together by [BEPRA Intelligence](https://www.linkedin.com/in/bepcavaller/) — websites and AI agents for local business.
+Put together by [BEPRA Intelligence](https://bepra-int.com): websites, AI CRMs, custom software and AI agents for established firms.
 
 ---
 
@@ -89,4 +89,4 @@ Pick one task you do every week. A proposal, a quote, a website check. Try the s
 
 ---
 
-*Built by BEPRA Intelligence. We build websites and AI agents for local businesses in Australia, so your business keeps running even when you can't pick up. [Say hello on LinkedIn](https://www.linkedin.com/in/bepcavaller/).*
+*Built by [BEPRA Intelligence](https://bepra-int.com) in Sydney. We build websites, AI CRMs, custom software and AI agents for established firms. [Say hello on LinkedIn](https://www.linkedin.com/in/bepcavaller/).*
